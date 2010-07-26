@@ -25,13 +25,14 @@ DEPENDENCIES
 
 This module requires these other modules and libraries:
 
-  blah blah blah
+  Business::OnlinePayment
+  Business::OnlinePayment::HTTPS
 
 COPYRIGHT AND LICENCE
 
 Put the correct copyright and licence information here.
 
-Copyright (C) 2010 by A. U. Thor
+Copyright (C) 2010 by Synapse Corporation
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.12.0 or,

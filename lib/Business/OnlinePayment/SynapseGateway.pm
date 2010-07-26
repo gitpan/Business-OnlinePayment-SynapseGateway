@@ -6,7 +6,6 @@ use warnings;
 use Carp;
 use Business::OnlinePayment;
 use Business::OnlinePayment::HTTPS;
-#use Data::Dumper;
 use vars qw($VERSION @ISA $me);
 
 @ISA = qw(Business::OnlinePayment::HTTPS);
